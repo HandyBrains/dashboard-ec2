@@ -11,7 +11,7 @@ Simple EC2 instance dashboard showing Name, Instance ID, Private IP, and State.
 ### Step 2: Run This Command
 
 ```bash
-curl -o deploy.sh https://raw.githubusercontent.com/HandyBrains/dashboard-ec2/main/deploy.sh && chmod +x deploy.sh && ./deploy.sh
+curl -o deploy.sh https://raw.githubusercontent.com/HandyBrains/dashboard-ec2/refs/heads/main/deploy.sh && chmod +x deploy.sh && ./deploy.sh
 ```
 
 ### Step 3: Download Dashboard
